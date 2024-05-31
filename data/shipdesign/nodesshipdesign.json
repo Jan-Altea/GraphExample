@@ -1,0 +1,448 @@
+{
+    "BasedAt": [
+        {
+            "_key": "Norway",
+            "domain": "Geospatial",
+            "type": "nan",
+            "file": "nan"
+        }
+    ],
+    "Description": [
+        {
+            "_key": "PreliminaryShipSpecificationDocument",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Principalhulldimensions",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Drawing"
+        },
+        {
+            "_key": "DeckhouseConfigurationSketch",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Drawing"
+        },
+        {
+            "_key": "GeneralArrangementSketch",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Drawing"
+        },
+        {
+            "_key": "TopsideArrangementSketch",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Drawing"
+        },
+        {
+            "_key": "AppendageConfigurationSketch",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Drawing"
+        },
+        {
+            "_key": "Descriptionofmission-criticalsystemsandfeatures",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Estimatesofcriticalperformanceaspects",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Manningestimate",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Essentialperformancerequirements",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Structure",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Model"
+        },
+        {
+            "_key": "Propulsionplanttype",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "ElectricPlant",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "FluidSystems",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "HVACSystems",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "AuxiliaryMachinery&MechnicalSystems",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "OutfitandFurnishing",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Area/VolumeSummary",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Weight/KGEstimate",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "InstalledElectricGeneratingCapacity",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Listofmajorequipment",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Costestimate",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "TechnicalandManagerialRiskPlan",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Speed/powerestimate",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Manuevering",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Seakeeping",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "List,Trim,andFreeboard",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "IntactStabilityCheck",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "FloodableLengthandDamageStability",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "PayloadDefinition",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Endurancefuelestimate",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "NoiseAnalysis",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        },
+        {
+            "_key": "Vibrations",
+            "domain": "Product",
+            "type": "Digital",
+            "file": "Document"
+        }
+    ],
+    "MonthDue": [
+        {
+            "_key": "1",
+            "domain": "Schedule",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "2",
+            "domain": "Schedule",
+            "type": "nan",
+            "file": "nan"
+        }
+    ],
+    "NameResponsible": [
+        {
+            "_key": "VioletteConley",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "MarvinGriffith",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "AliciaRubio",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "TitanDean",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "JuliannaSexton",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "MyloYoder",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "EmerieBarrera",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "CodyWiggins",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "WalterRaymond",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "HadleeMurray",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "PriscillaBrandt",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "BrettHayes",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "IrisCarey",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "WatsonLittle",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "TaylorGilbert",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "JocelynCrawford",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "KevinRhodes",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "TatumSchultz",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "EttaDougherty",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "HarleyWong",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "AshtonKemp",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "CapriSimmons",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "ArianaPotts",
+            "domain": "Person",
+            "type": "nan",
+            "file": "nan"
+        }
+    ],
+    "ShipLC": [
+        {
+            "_key": "ConceptPhase",
+            "domain": "Schedule",
+            "type": "nan",
+            "file": "nan"
+        }
+    ],
+    "Systems": [
+        {
+            "_key": "Transitional",
+            "domain": "Function",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "HullForm",
+            "domain": "Function",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "ConfigurationEvaluation",
+            "domain": "Function",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "MissionSystems",
+            "domain": "Function",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "StructuralAnalysis",
+            "domain": "Function",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "VesselPerformance",
+            "domain": "Function",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "VesselStability",
+            "domain": "Function",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "CostAnalysis",
+            "domain": "Function",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "RiskAnalysis",
+            "domain": "Function",
+            "type": "nan",
+            "file": "nan"
+        }
+    ],
+    "Team": [
+        {
+            "_key": "Design",
+            "domain": "Persons",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "Business",
+            "domain": "Persons",
+            "type": "nan",
+            "file": "nan"
+        },
+        {
+            "_key": "Finance",
+            "domain": "Persons",
+            "type": "nan",
+            "file": "nan"
+        }
+    ]
+}

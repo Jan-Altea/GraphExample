@@ -1,0 +1,642 @@
+{
+    "ASSIGNEDTO": [
+        {
+            "from": "Description/Preliminary Ship Specification Document",
+            "to": "NameResponsible/Violette Conley"
+        },
+        {
+            "from": "Description/Preliminary Ship Specification Document",
+            "to": "NameResponsible/Marvin Griffith"
+        },
+        {
+            "from": "Description/Preliminary Ship Specification Document",
+            "to": "NameResponsible/Alicia Rubio"
+        },
+        {
+            "from": "Description/Principal hull dimensions",
+            "to": "NameResponsible/Titan Dean"
+        },
+        {
+            "from": "Description/Deckhouse Configuration Sketch",
+            "to": "NameResponsible/Julianna Sexton"
+        },
+        {
+            "from": "Description/General Arrangement Sketch",
+            "to": "NameResponsible/Mylo Yoder"
+        },
+        {
+            "from": "Description/Topside Arrangement Sketch",
+            "to": "NameResponsible/Emerie Barrera"
+        },
+        {
+            "from": "Description/Appendage Configuration Sketch",
+            "to": "NameResponsible/Cody Wiggins"
+        },
+        {
+            "from": "Description/Description of mission-critical systems and features",
+            "to": "NameResponsible/Walter Raymond"
+        },
+        {
+            "from": "Description/Estimates of critical performance aspects ",
+            "to": "NameResponsible/Hadlee Murray"
+        },
+        {
+            "from": "Description/Manning estimate",
+            "to": "NameResponsible/Priscilla Brandt"
+        },
+        {
+            "from": "Description/Essential performance requirements",
+            "to": "NameResponsible/Cody Wiggins"
+        },
+        {
+            "from": "Description/Structure",
+            "to": "NameResponsible/Brett Hayes"
+        },
+        {
+            "from": "Description/Propulsion plant type",
+            "to": "NameResponsible/Iris Carey"
+        },
+        {
+            "from": "Description/Electric Plant",
+            "to": "NameResponsible/Watson Little"
+        },
+        {
+            "from": "Description/Fluid Systems",
+            "to": "NameResponsible/Taylor Gilbert"
+        },
+        {
+            "from": "Description/HVAC Systems",
+            "to": "NameResponsible/Jocelyn Crawford"
+        },
+        {
+            "from": "Description/Auxiliary Machinery & Mechnical Systems",
+            "to": "NameResponsible/Kevin Rhodes"
+        },
+        {
+            "from": "Description/Outfit and Furnishing",
+            "to": "NameResponsible/Tatum Schultz"
+        },
+        {
+            "from": "Description/Area/Volume Summary",
+            "to": "NameResponsible/Brett Hayes"
+        },
+        {
+            "from": "Description/Weight/KG Estimate",
+            "to": "NameResponsible/Iris Carey"
+        },
+        {
+            "from": "Description/Installed Electric Generating Capacity",
+            "to": "NameResponsible/Watson Little"
+        },
+        {
+            "from": "Description/List of major equipment",
+            "to": "NameResponsible/Etta Dougherty"
+        },
+        {
+            "from": "Description/Cost estimate",
+            "to": "NameResponsible/Brett Hayes"
+        },
+        {
+            "from": "Description/Technical and Managerial Risk Plan",
+            "to": "NameResponsible/Iris Carey"
+        },
+        {
+            "from": "Description/Speed/power estimate",
+            "to": "NameResponsible/Watson Little"
+        },
+        {
+            "from": "Description/Manuevering",
+            "to": "NameResponsible/Harley Wong"
+        },
+        {
+            "from": "Description/Seakeeping",
+            "to": "NameResponsible/Walter Raymond"
+        },
+        {
+            "from": "Description/List, Trim, and Freeboard",
+            "to": "NameResponsible/Hadlee Murray"
+        },
+        {
+            "from": "Description/Intact Stability Check",
+            "to": "NameResponsible/Ashton Kemp"
+        },
+        {
+            "from": "Description/Floodable Length and Damage Stability",
+            "to": "NameResponsible/Cody Wiggins"
+        },
+        {
+            "from": "Description/Payload Definition",
+            "to": "NameResponsible/Capri Simmons"
+        },
+        {
+            "from": "Description/Endurance fuel estimate",
+            "to": "NameResponsible/Walter Raymond"
+        },
+        {
+            "from": "Description/Noise Analysis",
+            "to": "NameResponsible/Hadlee Murray"
+        },
+        {
+            "from": "Description/Vibrations",
+            "to": "NameResponsible/Ariana Potts"
+        }
+    ],
+    "BASEDAT": [
+        {
+            "from": "NameResponsible/Violette Conley",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Marvin Griffith",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Alicia Rubio",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Titan Dean",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Julianna Sexton",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Mylo Yoder",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Emerie Barrera",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Cody Wiggins",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Walter Raymond",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Hadlee Murray",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Priscilla Brandt",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Brett Hayes",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Iris Carey",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Watson Little",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Taylor Gilbert",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Jocelyn Crawford",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Kevin Rhodes",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Tatum Schultz",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Etta Dougherty",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Harley Wong",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Ashton Kemp",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Capri Simmons",
+            "to": "BasedAt/Norway"
+        },
+        {
+            "from": "NameResponsible/Ariana Potts",
+            "to": "BasedAt/Norway"
+        }
+    ],
+    "DUEBYMONTH": [
+        {
+            "from": "Description/Preliminary Ship Specification Document",
+            "to": "MonthDue/1"
+        },
+        {
+            "from": "Description/Principal hull dimensions",
+            "to": "MonthDue/1"
+        },
+        {
+            "from": "Description/Deckhouse Configuration Sketch",
+            "to": "MonthDue/1"
+        },
+        {
+            "from": "Description/General Arrangement Sketch",
+            "to": "MonthDue/1"
+        },
+        {
+            "from": "Description/Topside Arrangement Sketch",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Appendage Configuration Sketch",
+            "to": "MonthDue/1"
+        },
+        {
+            "from": "Description/Description of mission-critical systems and features",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Estimates of critical performance aspects ",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Manning estimate",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Essential performance requirements",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Structure",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Propulsion plant type",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Electric Plant",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Fluid Systems",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/HVAC Systems",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Auxiliary Machinery & Mechnical Systems",
+            "to": "MonthDue/1"
+        },
+        {
+            "from": "Description/Outfit and Furnishing",
+            "to": "MonthDue/1"
+        },
+        {
+            "from": "Description/Area/Volume Summary",
+            "to": "MonthDue/1"
+        },
+        {
+            "from": "Description/Weight/KG Estimate",
+            "to": "MonthDue/1"
+        },
+        {
+            "from": "Description/Installed Electric Generating Capacity",
+            "to": "MonthDue/1"
+        },
+        {
+            "from": "Description/List of major equipment",
+            "to": "MonthDue/1"
+        },
+        {
+            "from": "Description/Cost estimate",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Technical and Managerial Risk Plan",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Speed/power estimate",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Manuevering",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Seakeeping",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/List, Trim, and Freeboard",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Intact Stability Check",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Floodable Length and Damage Stability",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Payload Definition",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Endurance fuel estimate",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Noise Analysis",
+            "to": "MonthDue/2"
+        },
+        {
+            "from": "Description/Vibrations",
+            "to": "MonthDue/2"
+        }
+    ],
+    "MEMBEROF": [
+        {
+            "from": "NameResponsible/Violette Conley",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Marvin Griffith",
+            "to": "Team/Business"
+        },
+        {
+            "from": "NameResponsible/Alicia Rubio",
+            "to": "Team/Finance"
+        },
+        {
+            "from": "NameResponsible/Titan Dean",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Julianna Sexton",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Mylo Yoder",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Emerie Barrera",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Cody Wiggins",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Walter Raymond",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Hadlee Murray",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Priscilla Brandt",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Brett Hayes",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Iris Carey",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Watson Little",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Taylor Gilbert",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Jocelyn Crawford",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Kevin Rhodes",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Tatum Schultz",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Etta Dougherty",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Brett Hayes",
+            "to": "Team/Business"
+        },
+        {
+            "from": "NameResponsible/Harley Wong",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Ashton Kemp",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Capri Simmons",
+            "to": "Team/Design"
+        },
+        {
+            "from": "NameResponsible/Ariana Potts",
+            "to": "Team/Design"
+        }
+    ],
+    "PARTOF": [
+        {
+            "from": "Description/Preliminary Ship Specification Document",
+            "to": "Systems/Transitional"
+        },
+        {
+            "from": "Description/Principal hull dimensions",
+            "to": "Systems/Hull Form"
+        },
+        {
+            "from": "Description/Deckhouse Configuration Sketch",
+            "to": "Systems/Configuration Evaluation"
+        },
+        {
+            "from": "Description/General Arrangement Sketch",
+            "to": "Systems/Configuration Evaluation"
+        },
+        {
+            "from": "Description/Topside Arrangement Sketch",
+            "to": "Systems/Configuration Evaluation"
+        },
+        {
+            "from": "Description/Appendage Configuration Sketch",
+            "to": "Systems/Configuration Evaluation"
+        },
+        {
+            "from": "Description/Description of mission-critical systems and features",
+            "to": "Systems/Mission Systems"
+        },
+        {
+            "from": "Description/Estimates of critical performance aspects ",
+            "to": "Systems/Mission Systems"
+        },
+        {
+            "from": "Description/Manning estimate",
+            "to": "Systems/Mission Systems"
+        },
+        {
+            "from": "Description/Essential performance requirements",
+            "to": "Systems/Mission Systems"
+        },
+        {
+            "from": "Description/Structure",
+            "to": "Systems/Structural Analysis"
+        },
+        {
+            "from": "Description/Propulsion plant type",
+            "to": "Systems/Vessel Performance"
+        },
+        {
+            "from": "Description/Electric Plant",
+            "to": "Systems/Vessel Performance"
+        },
+        {
+            "from": "Description/Fluid Systems",
+            "to": "Systems/Configuration Evaluation"
+        },
+        {
+            "from": "Description/HVAC Systems",
+            "to": "Systems/Configuration Evaluation"
+        },
+        {
+            "from": "Description/Auxiliary Machinery & Mechnical Systems",
+            "to": "Systems/Configuration Evaluation"
+        },
+        {
+            "from": "Description/Outfit and Furnishing",
+            "to": "Systems/Configuration Evaluation"
+        },
+        {
+            "from": "Description/Area/Volume Summary",
+            "to": "Systems/Vessel Stability"
+        },
+        {
+            "from": "Description/Weight/KG Estimate",
+            "to": "Systems/Vessel Stability"
+        },
+        {
+            "from": "Description/Installed Electric Generating Capacity",
+            "to": "Systems/Vessel Performance"
+        },
+        {
+            "from": "Description/List of major equipment",
+            "to": "Systems/Configuration Evaluation"
+        },
+        {
+            "from": "Description/Cost estimate",
+            "to": "Systems/Cost Analysis"
+        },
+        {
+            "from": "Description/Technical and Managerial Risk Plan",
+            "to": "Systems/Risk Analysis"
+        },
+        {
+            "from": "Description/Speed/power estimate",
+            "to": "Systems/Vessel Performance"
+        },
+        {
+            "from": "Description/Manuevering",
+            "to": "Systems/Vessel Performance"
+        },
+        {
+            "from": "Description/Seakeeping",
+            "to": "Systems/Vessel Performance"
+        },
+        {
+            "from": "Description/List, Trim, and Freeboard",
+            "to": "Systems/Vessel Stability"
+        },
+        {
+            "from": "Description/Intact Stability Check",
+            "to": "Systems/Vessel Stability"
+        },
+        {
+            "from": "Description/Floodable Length and Damage Stability",
+            "to": "Systems/Vessel Stability"
+        },
+        {
+            "from": "Description/Payload Definition",
+            "to": "Systems/Vessel Stability"
+        },
+        {
+            "from": "Description/Endurance fuel estimate",
+            "to": "Systems/Vessel Performance"
+        },
+        {
+            "from": "Description/Noise Analysis",
+            "to": "Systems/Vessel Performance"
+        },
+        {
+            "from": "Description/Vibrations",
+            "to": "Systems/Vessel Performance"
+        }
+    ],
+    "WITHINLCPHASE": [
+        {
+            "from": "Systems/Transitional",
+            "to": "ShipLC/Concept Phase"
+        },
+        {
+            "from": "Systems/Hull Form",
+            "to": "ShipLC/Concept Phase"
+        },
+        {
+            "from": "Systems/Configuration Evaluation",
+            "to": "ShipLC/Concept Phase"
+        },
+        {
+            "from": "Systems/Mission Systems",
+            "to": "ShipLC/Concept Phase"
+        },
+        {
+            "from": "Systems/Structural Analysis",
+            "to": "ShipLC/Concept Phase"
+        },
+        {
+            "from": "Systems/Vessel Performance",
+            "to": "ShipLC/Concept Phase"
+        },
+        {
+            "from": "Systems/Vessel Stability",
+            "to": "ShipLC/Concept Phase"
+        },
+        {
+            "from": "Systems/Cost Analysis",
+            "to": "ShipLC/Concept Phase"
+        },
+        {
+            "from": "Systems/Risk Analysis",
+            "to": "ShipLC/Concept Phase"
+        }
+    ]
+}
